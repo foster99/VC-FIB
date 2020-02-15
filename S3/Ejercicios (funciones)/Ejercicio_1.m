@@ -8,7 +8,7 @@ function F = Ejercicio_1(A)
 % Como lo separamos en la aplicacion de dos filtros, vertical y horizontal,
 % creamos dos matrices de dimension 1x3 y 3x1 respectivamente.
 
-    ones_h = ones(1,3)/3;
+    ones_h = ones(1,9)/9;
     ones_v = ones_h';    
     
 % Sobre la imagen original aplicamos el filtro horizontal, y posteriormente

@@ -1,2 +1,3 @@
 # VC-FIB
-Laboratoris VC
+ 
+Laboratoris de l'assignatura VC + Short Project Final.
